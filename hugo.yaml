@@ -51,7 +51,7 @@ languages:
       description: SHOPTIMA Group - International
   # cSpell:disable
   'uz':
-    languageName: Uzbek
+    languageName: O'zbekcha
     contentDir: content/uz
     title: SHOPTIMA
     params:
@@ -59,11 +59,11 @@ languages:
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
   ru:
-    languageName: "Russian"
+    languageName: "Русский"
     contentDir: content/ru
     title: "SHOPTIMA"
     params:
-      description: "SHOPTIMA Group - Russian"
+      description: "SHOPTIMA Group - Русский"
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
   # cSpell:enable
