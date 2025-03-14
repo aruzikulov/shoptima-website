@@ -1,17 +1,28 @@
 ---
-title: مستندات
-linkTitle: مستندات
-menu:
-  main:
-    weight: 20
+title: Documentation
+linkTitle: Docs
+menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-این صفحه به شما نشان می‌دهد چگونه از این پوسته استفاده کنید.
+This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
 
-این قسمت مجلی است که مستندات کاربران در آن قرار دارد. همه‌ی اطلاعاتی که کاربران شما نیاز به فهمیدن دارند تا به درستی از پروژه شما استفاده کنند.
+This section is where the user documentation for your project lives - all the
+information your users need to understand and successfully use your project.
 
-برای مستندات بزرگتر ما پیشنهاد می‌کنیم مطالب را طبق این مثال قرار دهید. البته ممکن است بعضی از آنها مورد نیاز نباشد. پس در حذف و اضافه کردن مطالب خود راحت باشید. نمونه کوچکتر مستندات داکسی را می‌توانید در [اینجا](https://docsy.dev/docs/) مشاهده کنید که در [مخزن گیتهاب پوسته داکسی](https://github.com/google/docsy/tree/master/userguide) قرار دارد.
+For large documentation sets we recommend adding content under the headings in
+this section, though if some or all of them don’t apply to your project feel
+free to remove them or add your own. You can see an example of a smaller Docsy
+documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
+lives in the [Docsy theme
+repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
+copy its docs section.
 
-برای فهمیدن چگونگی استفاده از پوسته داکسی، از [رهنمود‌های پوسته داکسی](https://docsy.dev/docs/) استفاده کنید. همچنین می‌توانید در باره‌ی چگونگی مرتب کردن مستندات خود در [اینجا](https://docsy.dev/docs/best-practices/organizing-content/) بخوانید.
+Other content such as marketing material, case studies, and community updates
+should live in the [About](/about/) and [Community](/community/) pages.
+
+Find out how to use the Docsy theme in the [Docsy User
+Guide](https://docsy.dev/docs/). You can learn more about how to organize your
+documentation (and how we organized this site) in [Organizing Your
+Content](https://docsy.dev/docs/best-practices/organizing-content/).

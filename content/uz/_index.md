@@ -2,14 +2,14 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Универсальный агент по поиску поставщиков в Китае: от А до Я!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Xitoydan barcha turdagi uskunalar va tovarlar" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Ваш надежный партнер по снабжению &mdash; в Китае!</p>
+<p class="lead mt-5">Faqat 1-qo'ldan &mdash; Sifatli va Arzon!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
