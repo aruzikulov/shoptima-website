@@ -48,25 +48,24 @@ languages:
     languageName: English
     title: SHOPTIMA
     params:
-      description: A Docsy example site
+      description: SHOPTIMA Group - International
   # cSpell:disable
-  'no':
-    languageName: Norsk
-    contentDir: content/no
-    title: Gulldoks
+  'uz':
+    languageName: Uzbek
+    contentDir: content/uz
+    title: SHOPTIMA
     params:
-      description: Docsy er operativsystem for skyen
+      description: SHOPTIMA Jamoasi
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
-  fa:
-    languageDirection: rtl
-    languageName: "فارسی (Persian)"
-    contentDir: content/fa
-    title: "اسناد گلدی"
+  ru:
+    languageName: "Russian"
+    contentDir: content/ru
+    title: "SHOPTIMA"
     params:
-      description: "یک نمونه برای پوسته داکسی"
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
+      description: "SHOPTIMA Group - Russian"
+      time_format_default: 02.01.2006
+      time_format_blog: 02.01.2006
   # cSpell:enable
 
 markup:
