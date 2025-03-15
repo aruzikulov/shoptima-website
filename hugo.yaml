@@ -181,32 +181,48 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
-      - name: User mailing list
-        url: https://example.org/mail
+      - name: Email
+        url: mailto:info@shoptima.org
         icon: fa fa-envelope
         desc: Discussion and help from your fellow users
       - name: Twitter
-        url: https://example.org/twitter
+        url: https://x.com/ShoptimaUz
         icon: fab fa-twitter
         desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
+      - name: Facebook
+        url: https://www.facebook.com/shoptima/
+        icon: fab fa-facebook
+        desc: Follow us on Facebook to get the latest news!
+      - name: Instagram
+        url: https://www.instagram.com/shoptima.uz/
+        icon: fab fa-instagram
+        desc: Follow us on Instagram to get the latest news!
+      - name: Linkedin
+        url: https://www.linkedin.com/in/shoptima/
+        icon: fab fa-linkedin
+        desc: Follow us on Linkedin to get the latest news!
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
-      - name: GitHub
-        url: https://github.com/google/docsy
-        icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discuss development issues around the project
+      - name: Telegram
+        url: https://t.me/shoptima
+        icon: fab fa-telegram
+        desc: Follow us on Telegram to get the latest news!
+      - name: TikTok
+        url: https://www.tiktok.com/@shoptima
+        icon: fab fa-tiktok
+        desc: Follow us on TikTok to get the latest news!
+      - name: YouTube
+        url: https://www.youtube.com/@shoptima
+        icon: fab fa-youtube
+        desc: Follow us on YouTube to get the latest news!
+      - name: VK
+        url: https://vk.com/shoptima
+        icon: fab fa-vk
+        desc: Follow us on VK to get the latest news!
+      - name: OK
+        url: https://ok.ru/shoptima
+        icon: fab fa-odnoklassniki
+        desc: Follow us on OK to get the latest news!
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
