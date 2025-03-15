@@ -4,10 +4,10 @@ title: Goldydocs
 
 {{< blocks/cover title="Xitoydan barcha turdagi uskunalar va tovarlar" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Katalog <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
+  Kontakt <i class="fab fa-telegram ms-2 "></i>
 </a>
 <p class="lead mt-5">Faqat 1-qo'ldan &mdash; Sifatli va Arzon!</p>
 {{< blocks/link-down color="info" >}}

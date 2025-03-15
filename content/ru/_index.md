@@ -4,10 +4,10 @@ title: Goldydocs
 
 {{< blocks/cover title="Универсальный агент по поиску поставщиков в Китае: от А до Я!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Каталог <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
+  Контакт <i class="fab fa-telegram ms-2 "></i>
 </a>
 <p class="lead mt-5">Ваш надежный партнер по снабжению &mdash; в Китае!</p>
 {{< blocks/link-down color="info" >}}
@@ -15,12 +15,22 @@ title: Goldydocs
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+Anything you need from China? Just contact me:
+Phone / WeChat / WhatsApp / Telegram: +8613162890261
+Email: john@shoptima.org
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+SHOPTIMA Sourcing is the one of the best China sourcing company. We help you to:
+
+Find the best factories 
+
+Get competitive prices
+
+Follow up production
+
+Quality inspection
+
+And deliver products door to door
+
 {{% /blocks/lead %}}
 
 
