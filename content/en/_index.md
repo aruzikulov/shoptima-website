@@ -49,32 +49,37 @@ By Truck, Sea, Railway, Air shipment etc
 
 
 {{% blocks/section %}}
-This is the second section
+With years of experience, we helped THOUSANDS of businesses to kickstart their ideas.
+Our experts guide you STEP-BY-STEP to scale your business fast with minimal effort.
 {.h1 .text-center}
 {{% /blocks/section %}}
 
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+{{% blocks/feature icon="fa fa-jpy" title="Secure Payment"
+    url="https://www.shoptima.org" %}}
+We assist you for your payment security!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa fa-file-text" title="Contract drafting"
+    url="https://www.shoptima.org" %}}
+Contract is crutial for your business safety!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fa fa-handshake" title="Consultiong"
+    url="https://shoptima.org" %}}
+Any topics related to Business in China.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
 
 {{% blocks/section %}}
-This is the another section
+We offer a comprehensive sourcing solution from China, acting as your trusted sourcing partner to Find the products you need at competitive prices. Ensure timely production and delivery.
+Guarantee product quality meets your standards.
+Manage customs, documentation, and shipping.
+Provide guidance on import regulations.
+Support your visits with translation and other services.
 {.h1 .text-center}
 {{% /blocks/section %}}
