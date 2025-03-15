@@ -76,10 +76,6 @@ Any topics related to Business in China.
 
 
 {{% blocks/section %}}
-We offer a comprehensive sourcing solution from China, acting as your trusted sourcing partner to Find the products you need at competitive prices. Ensure timely production and delivery.
-Guarantee product quality meets your standards.
-Manage customs, documentation, and shipping.
-Provide guidance on import regulations.
-Support your visits with translation and other services.
+We handle China sourcing: competitive prices, quality assurance, production, delivery, customs, import guidance, and visit support. Your trusted partner.
 {.h1 .text-center}
 {{% /blocks/section %}}
