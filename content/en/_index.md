@@ -67,7 +67,7 @@ We assist you for your payment security!
 Contract is crutial for your business safety!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa fa-handshake" title="Consultiong"
+{{% blocks/feature icon="fa fa-handshake" title="Consulting"
     url="https://shoptima.org" %}}
 Any topics related to Business in China.
 {{% /blocks/feature %}}
