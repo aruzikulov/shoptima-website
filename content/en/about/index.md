@@ -1,22 +1,19 @@
 ---
-title: About Goldydocs
+title: About SHOPTIMA
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About SHOPTIMA" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+Sourcing services from China.
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+Welcome to SHOPTIMA Sourcing, your trusted partner in global product sourcing. We specialize in connecting businesses with high-quality suppliers, ensuring seamless procurement and competitive pricing. Our expertise spans across industries, delivering tailored solutions to meet your unique needs. Discover the SHOPTIMA advantage and elevate your supply chain efficiency today.
 
 {{% /blocks/lead %}}
 
