@@ -71,7 +71,7 @@ other = "Learn and Connect"
 [community_using]
 other = "Using or want to use {{ .Site.Title }}? Find out more here:"
 [community_develop]
-other = "Develop and Contribute"
+other = "Develop and Cooperate"
 [community_contribute]
 other = "If you want to get more involved by contributing to {{ .Site.Title }}, join us here:"
 [community_how_to]
