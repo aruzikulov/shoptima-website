@@ -75,9 +75,9 @@ other = "Develop and Contribute"
 [community_contribute]
 other = "If you want to get more involved by contributing to {{ .Site.Title }}, join us here:"
 [community_how_to]
-other = "You can find out how to contribute to {{ .Site.Title }} in our"
+other = "You can contact us by Phone/WeChat/WhatApp/Telegram to {{ .Site.Title }} in +8613162890261"
 [community_guideline]
-other = "Contribution Guidelines"
+other = "Phone number"
 
 # Feedback
 [feedback_title]
