@@ -1,6 +1,6 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Katalog
+linkTitle: Katalog
 menu: {main: {weight: 20}}
 ---
 

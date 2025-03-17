@@ -1,6 +1,6 @@
 ---
 title: About Goldydocs
-linkTitle: About
+linkTitle: О нас
 menu: {main: {weight: 10}}
 ---
 

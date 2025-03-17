@@ -1,6 +1,6 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: Bizning xizmatlarimiz haqida
+linkTitle: Haqida
 menu: {main: {weight: 10}}
 ---
 

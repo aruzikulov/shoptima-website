@@ -1,6 +1,6 @@
 ---
 title: Documentation
-linkTitle: Docs
+linkTitle: Каталог
 menu: {main: {weight: 20}}
 ---
 

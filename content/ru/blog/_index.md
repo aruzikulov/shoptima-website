@@ -1,5 +1,6 @@
 ---
-title: Blog
+title: Блог
+linkTitle: Блог
 menu: {main: {weight: 30}}
 ---
 
