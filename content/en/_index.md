@@ -1,5 +1,5 @@
 ---
-title: SHOPTIMA SOurcing
+title: SHOPTIMA Sourcing
 ---
 
 {{< blocks/cover title="One-Stop China Sourcing Agent: From A to Z!" image_anchor="top" height="full" >}}

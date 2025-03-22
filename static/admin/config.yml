@@ -1,0 +1,154 @@
+backend:
+  name: git-gateway
+  branch: main
+local_backend: true
+  
+
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "content/en/" # The path to the folder where the documents are stored
+    path: "{{slug}}/index" # Each document is inside a folder with the slug name.
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "home"
+    label: "Home"
+    files:
+      - file: "content/en/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Cover Section, name: cover_section, widget: object, fields: [
+              {label: Title, name: title, widget: string},
+              {label: Image Anchor, name: image_anchor, widget: string},
+              {label: Height, name: height, widget: string},
+              {label: Buttons, name: buttons, widget: list, fields: [
+                {label: Text, name: text, widget: string},
+                {label: URL, name: url, widget: string},
+                {label: Icon, name: icon, widget: string}
+              ]},
+              {label: Lead Text, name: lead_text, widget: text}
+            ]}
+          - {label: Lead Section, name: lead_section, widget: object, fields: [
+              {label: Color, name: color, widget: string, default: "primary"},
+              {label: Content, name: content, widget: markdown}
+            ]}
+          - {label: Features, name: features, widget: list, fields: [
+              {label: Icon, name: icon, widget: string},
+              {label: Title, name: title, widget: string},
+              {label: Text, name: text, widget: text},
+              {label: URL, name: url, widget: string, required: false}
+            ]}
+          - {label: Additional Sections, name: additional_sections, widget: list, fields: [
+              {label: Text, name: text, widget: markdown}
+            ]}
+      - file: "content/community/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
+      - file: "content/docs/_index.md"
+        label: "Docs Page"
+        name: "docs"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Full_image, name: full_image, widget: image}
+          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: "content/blog/_index.md"
+        label: "Blog Page"
+        name: "blog"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+      - file: "content/en/blog/_index.md"
+        label: "Blog Page"
+        name: "blog_index"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Menu", name: "menu", widget: "object", fields: [
+              { label: "Main", name: "main", widget: "object", fields: [
+                { label: "Weight", name: "weight", widget: "number" }
+              ]}
+            ]}
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/en/about/index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Link Title, name: linkTitle, widget: string}
+          - {label: Menu, name: menu, widget: object, fields: [
+              {label: Main, name: main, widget: object, fields: [
+                {label: Weight, name: weight, widget: number}
+              ]}
+            ]}
+          - {label: Cover Section, name: cover_section, widget: object, fields: [
+              {label: Title, name: title, widget: string},
+              {label: Image Anchor, name: image_anchor, widget: string},
+              {label: Height, name: height, widget: string},
+              {label: Text, name: text, widget: markdown}
+            ]}
+          - {label: Lead Section, name: lead_section, widget: object, fields: [
+              {label: Text, name: text, widget: markdown}
+            ]}
+          - {label: Sections, name: sections, widget: list, fields: [
+              {label: Header, name: header, widget: string},
+              {label: Text, name: text, widget: markdown}
+            ]}
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - file: "site/data/footer.json"
+        label: Footer
+        name: footer
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Blurb, name: blurb, widget: text}
+      - file: "hugo.toml"
+        label: Hugo Config
+        name: config
+        editor:
+          preview: false
+        fields:
+          - {label: Site Title for Browser Tab, name: title, widget: string}
+          - label: Params
+            name: params
+            widget: object
+            fields:
+              - label: Open Graph Image
+                name: images
+                widget: list
+                field: { label: Image, name: image, widget: image }

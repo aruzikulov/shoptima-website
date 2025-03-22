@@ -1,244 +1,46 @@
 ---
-title: Second blog post
-date: 2018-10-06
+title: Join Us
+date: 2025-03-22
 description: >
-  A short lead description about this content page. Text here can also be
-  **bold** or _italic_ and can even be split over multiple paragraphs.
+  We are thrilled to announce that **Shoptima.org** is expanding globally—and we want YOU to be part of this exciting journey! 🚀 
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+🌟 **Big News Alert!** 🌟  
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+As a leading sourcing platform connecting businesses with top-tier suppliers and manufacturers in **China**, we’re on a mission to make global trade seamless, efficient, and accessible for everyone. And now, we’re looking for **agents and partners worldwide** to join us in taking this vision to the next level!  
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+💼 **Why Partner with Shoptima?**  
+✅ **Lucrative Opportunities**: Earn commissions and grow your business by tapping into the booming global trade industry.  
+✅ **Proven Expertise**: Benefit from our years of experience in sourcing high-quality products directly from China.  
+✅ **Comprehensive Support**: From marketing materials to training, we provide everything you need to succeed.  
+✅ **Flexible Collaboration**: Whether you're an individual agent, distributor, or corporate partner, we tailor our cooperation to suit your needs.  
+✅ **Global Reach, Local Impact**: Be part of a trusted network that empowers businesses worldwide while making a difference in your community.  
 
-> There should be no margin above this first sentence.
->
-> Blockquotes should be a lighter gray with a border along the left side in the secondary color.
->
-> There should be no margin below this final sentence.
+🌍 **Who Are We Looking For?**  
+- Entrepreneurs eager to expand their portfolio  
+- Logistics companies seeking reliable sourcing partners  
+- Import/export agents looking for quality suppliers  
+- Business consultants wanting to offer value-added services  
+- Anyone passionate about global trade and networking!  
 
-## First Header
+🤝 **How Can You Partner with Us?**  
+1️⃣ **Refer Clients**: Bring businesses to us who need sourcing services, and earn attractive commissions.  
+2️⃣ **Become an Agent**: Represent Shoptima in your region and help clients source products from China effortlessly.  
+3️⃣ **Strategic Alliances**: Collaborate with us to create mutually beneficial partnerships that drive growth.  
 
-This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+🌐 **Join the Shoptima Family Today!**  
+If you’re ready to unlock new opportunities and grow with us, don’t wait—let’s connect! Together, we can revolutionize the way businesses source products and build a brighter future for global trade.  
 
+📩 **Get in Touch**:  
+Visit us at **[Shoptima.org](http://www.shoptima.org)** or email us at [your email] to learn more about partnership opportunities.  
 
+Let’s grow together and make sourcing smarter, faster, and more efficient for businesses around the world! 💡📦  
 
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+#Shoptima #GlobalExpansion #PartnershipOpportunities #SourcingInChina #BusinessGrowth #CollaborationGoals  
 
-On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
-
-Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
-occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
-pignora hinc reppulit nos **aut**, aptos, ipsa.
-
-Meae optatos *passa est* Epiros utiliter *Talibus niveis*, hoc lata, edidit.
-Dixi ad aestum.
-
-## Header 2
-
-> This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Header 3
-
-```
-This is a code block following a header.
-```
-
-#### Header 4
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-##### Header 5
-
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
-
-###### Header 6
-
-| What      | Follows         |
-|-----------|-----------------|
-| A table   | A header        |
-| A table   | A header        |
-| A table   | A header        |
-
-----------------
-
-There's a horizontal rule above and below this.
-
-----------------
-
-Here is an unordered list:
-
-* Salt-n-Pepa
-* Bel Biv DeVoe
-* Kid 'N Play
-
-And an ordered list:
-
-1. Michael Jackson
-2. Michael Bolton
-3. Michael Bublé
-
-And an unordered task list:
-
-- [x] Create a sample markdown document
-- [x] Add task lists to it
-- [ ] Take a vacation
-
-And a "mixed" task list:
-
-- [ ] Steal underpants
-- ?
-- [ ] Profit!
-
-And a nested list:
-
-* Jackson 5
-  * Michael
-  * Tito
-  * Jackie
-  * Marlon
-  * Jermaine
-* TMNT
-  * Leonardo
-  * Michelangelo
-  * Donatello
-  * Raphael
-
-Definition lists can be used with Markdown syntax. Definition terms are bold.
-
-Name
-: Godzilla
-
-Born
-: 1952
-
-Birthplace
-: Japan
-
-Color
-: Green
-
-
-----------------
-
-Tables should have bold headings and alternating shaded rows.
-
-| Artist            | Album           | Year |
-|-------------------|-----------------|------|
-| Michael Jackson   | Thriller        | 1982 |
-| Prince            | Purple Rain     | 1984 |
-| Beastie Boys      | License to Ill  | 1986 |
-
-If a table is too wide, it should scroll horizontally.
-
-| Artist            | Album           | Year | Label       | Awards   | Songs     |
-|-------------------|-----------------|------|-------------|----------|-----------|
-| Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
-| Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
-| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
-
-----------------
-
-Code snippets like `var foo = "bar";` can be shown inline.
-
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
-
-Code can also be shown in a block element.
-
-```
-foo := "bar";
-bar := "foo";
-```
-
-Code can also use syntax highlighting.
-
-```go
-func main() {
-  input := `var foo = "bar";`
-
-  lexer := lexers.Get("javascript")
-  iterator, _ := lexer.Tokenise(nil, input)
-  style := styles.Get("github")
-  formatter := html.New(html.WithLineNumbers())
-
-  var buff bytes.Buffer
-  formatter.Format(&buff, style, iterator)
-
-  fmt.Println(buff.String())
-}
-```
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-Inline code inside table cells should still be distinguishable.
-
-| Language    | Code               |
-|-------------|--------------------|
-| Javascript  | `var foo = "bar";` |
-| Ruby        | `foo = "bar"{`      |
-
-----------------
-
-Small images should be shown at their actual size.
-
-![](https://placekitten.com/g/300/200/)
-
-Large images should always scale down and fit in the content container.
-
-![](https://placekitten.com/g/1200/800/)
-
-## Components
-
-### Alerts
-
-{{< alert >}}This is an alert.{{< /alert >}}
-{{< alert title="Note:" >}}This is an alert with a title.{{< /alert >}}
-{{< alert type="success" >}}This is a successful alert.{{< /alert >}}
-{{< alert type="warning" >}}This is a warning!{{< /alert >}}
-{{< alert type="warning" title="Warning!" >}}This is a warning with a title!{{< /alert >}}
-
-
-## Sizing
-
-Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Parameters available
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Using pixels
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Using rem
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-## Memory
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### RAM to use
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### More is better
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Used RAM
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
+👉 Share this post with anyone who might be interested in partnering with us. Let’s build something amazing together! 🌍✨
 
 
 ```
-This is the final element on the page and there should be no margin below this.
+join us
 ```
