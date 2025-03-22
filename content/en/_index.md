@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: SHOPTIMA SOurcing
 ---
 
 {{< blocks/cover title="One-Stop China Sourcing Agent: From A to Z!" image_anchor="top" height="full" >}}

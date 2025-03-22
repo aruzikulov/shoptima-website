@@ -3,6 +3,6 @@ title: Blog
 menu: {main: {weight: 30}}
 ---
 
-This is the **blog** section. It has two categories: News and Releases.
+This is the **blog** section. It has two categories: News and Useful info for Foreigners in China.
 
-Files in these directories will be listed in reverse chronological order.
+Updates will be listed in reverse chronological order.

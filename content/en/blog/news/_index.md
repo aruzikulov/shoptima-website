@@ -1,4 +1,4 @@
 ---
-title: News
+title: News about China
 weight: 20
 ---
