@@ -28,10 +28,9 @@ SHOPTIMA Sourcing is the one of the best China sourcing company. We help you to:
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="Find Reliable Suppliers" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Find Reliable Suppliers" url="https://www.shoptima.org" %}}
 We have various ways to check the creditability of the supplier
 
-Please follow this space for updates!
 {{% /blocks/feature %}}
 
 
