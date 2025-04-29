@@ -8,7 +8,7 @@ menu: {main: {weight: 20}}
 We are TRADE BRIDGE for your business from reliable direct manufacturer to your door.
 {{% /pageinfo %}}
 
-<h3>Always Having Problems with Your Suppliers? 🚀</h3>
+**Always Having Problems with Your Suppliers? 🚀**
 
 💡 Hey, I’m John, the founder of SHOPTIMA Trading. I’m a highly motivated and results-driven professional with years of experience in sourcing, procurement, and logistics. My passion for helping businesses streamline their supply chains and maximize profits led me to establish SHOPTIMA Trading.
 
@@ -20,7 +20,7 @@ At SHOPTIMA Trading, we offer end-to-end sourcing and supply chain solutions to 
 <br>✅ Amazon FBA & Dropshipping Fulfillment – Hassle-free order processing & shipping
 <br>✅ E-Commerce Support – Shopify/WooCommerce store setup & hot product recommendations
 
-<b>Why Choose SHOPTIMA Trading?</b>
+**Why Choose SHOPTIMA Trading?**
 <br>🔹 No MOQ – Order as little or as much as you need
 <br>🔹 Supplier Negotiation – Get the best deals on your behalf
 <br>🔹 End-to-End Logistics – Door-to-door shipping & customs clearance
