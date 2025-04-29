@@ -7,6 +7,7 @@ publish = "public"
 
 [build.environment]
 GO_VERSION = "1.22.2"
+idiomatic_version_file_enable_tools = "node"
 
 [context.production]
 command = "npm run build:production"
