@@ -7,7 +7,6 @@ publish = "public"
 
 [build.environment]
 GO_VERSION = "1.22.2"
-HUGO_VERSION = "0.147.0"
 
 # Explicitly enable idiomatic version files for Node.js and
 NODE_VERSION = "lts/*"
