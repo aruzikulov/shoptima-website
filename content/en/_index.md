@@ -13,12 +13,11 @@ title: SHOPTIMA Sourcing
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-Anything you need from China? Just contact us: 
+Anything you need from China? Just contact us:
 
 <i class="fas fa-phone ms-2"></i> +8613162890261
-<i class="fas fa-envelope"></i> info@shoptima.org
+<i class="fas fa-envelope"></i> <info@shoptima.org>
 
 SHOPTIMA Sourcing is the one of the best China sourcing company. We help you to:
 
@@ -26,26 +25,21 @@ SHOPTIMA Sourcing is the one of the best China sourcing company. We help you to:
 
 {{% /blocks/lead %}}
 
-
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="Find Reliable Suppliers" url="https://www.shoptima.org" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Find Reliable Suppliers" url="<https://www.shoptima.org>" %}}
 We have various ways to check the creditability of the supplier
 
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fa fa-thumbs-up" title="Quality Assurance!" url="https://www.shoptima.org" %}}
+{{% blocks/feature icon="fa fa-thumbs-up" title="Quality Assurance!" url="<https://www.shoptima.org>" %}}
 We check quality before choosing the supplier, production time and before loading!
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fa fa-truck" title="Delivery products" url="https://www.shoptima.org" %}}
-By Truck, Sea, Railway, Air shipment etc 
+{{% blocks/feature icon="fa fa-truck" title="Delivery products" url="<https://www.shoptima.org>" %}}
+By Truck, Sea, Railway, Air shipment etc
 {{% /blocks/feature %}}
 
-
 {{% /blocks/section %}}
-
 
 {{% blocks/section %}}
 With years of experience, we helped THOUSANDS of businesses to kickstart their ideas.
@@ -53,26 +47,24 @@ Our experts guide you STEP-BY-STEP to scale your business fast with minimal effo
 {.h1 .text-center}
 {{% /blocks/section %}}
 
-
 {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fa fa-jpy" title="Secure Payment"
-    url="https://www.shoptima.org" %}}
+    url="<https://www.shoptima.org>" %}}
 We assist you for your payment security!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa fa-file-text" title="Contract drafting"
-    url="https://www.shoptima.org" %}}
+    url="<https://www.shoptima.org>" %}}
 Contract is crutial for your business safety!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa fa-handshake" title="Consulting"
-    url="https://shoptima.org" %}}
+    url="<https://shoptima.org>" %}}
 Any topics related to Business in China.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
-
 
 {{% blocks/section %}}
 We handle China sourcing: competitive prices, quality assurance, production, delivery, customs, import guidance, and visit support. Your trusted partner.
