@@ -19,14 +19,14 @@ Welcome to SHOPTIMA Sourcing, your trusted partner in global product sourcing. W
 
 {{% blocks/section %}}
 
-# This is another section
+# Let us handle the contracts—you focus on your business. We draft custom agreements to protect your pricing, quality, delivery, and payments in China.
 {.text-center}
 
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
 
-# This is another section
+# Master secure supplier payments—whether you're starting out or scaling up. Pay safely, grow confidently.
 {.text-center}
 
 {{% /blocks/section %}}
