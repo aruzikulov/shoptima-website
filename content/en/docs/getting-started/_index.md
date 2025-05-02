@@ -1,35 +1,42 @@
 ---
-title: Getting Started
-description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
-weight: 2
+title: Why choose us?
+description: SHOPTIMA connects you with pre-vetted, top-tier suppliers offering trending, high-quality products – eliminating unreliable vendors so you can boost sales and margins effortlessly.
+categories: [Services, Sourcing]
+tags: [sorcing, procurement]
+weight: 1
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+ Try us for smarter sourcing, faster growth.
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+## Procurement & Sourcing Expert
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+With over a decade of experience, SHOPTIMA Sourcing is a leading China sourcing partner. Our experts streamline procurement, so you don’t have to.
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+## 24/7 Dedicated Support
 
-## Prerequisites
+Our responsive and professional team ensures quick replies to all inquiries, with documentation delivered within 24 hours.
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+Plus, enjoy a FREE, no-obligation quote—transparent and detailed.
 
-## Installation
+## 100% Quality Assurance
+We rigorously inspect every product to ensure it meets your exact standards.
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+Build a stronger brand faster—with premium-quality goods that drive customer trust and loyalty.
 
-## Setup
+## Budget-Friendly Global Shipping
+With strong partnerships across major carriers, we deliver your goods quickly and reliably—exactly how you need them.
 
-Is there any initial setup users need to do after installation to try your project?
+Cut costs without compromise—our flexible shipping options give you the best value.
 
-## Try it out!
+## Secure & Flexible Payment Options
+SHOPTIMA Sourcing offers multiple trusted payment methods, including PayPal, credit cards, Wise, and bank transfers—so you can pay with confidence.
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+Zero payment risk + maximum security—your financial data is always protected with our encrypted systems.
+
+## Premium Supplier Network
+At SHOPTIMA, we handpick only top-tier suppliers with innovative, high-demand products to keep you ahead of the competition.
+
+Stop gambling with unreliable vendors – our rigorous vetting process ensures quality that boosts your sales and brand reputation.

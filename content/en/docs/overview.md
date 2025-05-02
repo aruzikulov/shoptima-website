@@ -1,7 +1,7 @@
 ---
 title: Product Sourcing
 description: China Sourcing Made Easy - Quality Suppliers, Low Costs
-weight: 1
+weight: 2
 ---
 
 {{% pageinfo %}}
