@@ -1,6 +1,6 @@
 ---
 title: Core Sources
-description: # 🚀 Master Product Sourcing with SHOPTIMA: Your Guide to Profitable Business 
+description: Master Product Sourcing with SHOPTIMA - Your Guide to Profitable Business 
 date: 2025-01-07
 weight: 6
 ---
@@ -11,7 +11,7 @@ weight: 6
 
 
 
-**Stop overpaying!** With **{{ 'now' | date: "%Y" | minus: 2012 }}+ Years of Expertise** years of expertise, SHOPTIMA Sourcing reveals how to find trusted suppliers & high-margin products—**100% FREE**.  
+**Stop overpaying!** With 13+ Years of Expertise** years of expertise, SHOPTIMA Sourcing reveals how to find trusted suppliers & high-margin products—**100% FREE**.  
 
 ---
 
