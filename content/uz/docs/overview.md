@@ -1,48 +1,53 @@
 ---
-title: Overview
-description: Here's where your user finds out if your project is for them.
-weight: 1
+title: Product Sourcing
+description: China Sourcing Made Easy - Quality Suppliers, Low Costs
+weight: 2
 ---
 
 {{% pageinfo %}}
 
-This is a placeholder page that shows you how to use this template site.
+Top suppliers. Flawless fulfillment. 100% success—powered by our premium sourcing team.
 
 {{% /pageinfo %}}
 
-The Overview is where your users find out about your project. Depending on the
-size of your docset, you can have a separate overview page (like this one) or
-put your overview contents in the Documentation landing page (like in the Docsy
-User Guide).
+# Your Trusted Sourcing Partner
 
-Try answering these questions for your user in this page:
+Our dedicated sourcing team partners with **only the most reliable suppliers**, guaranteeing seamless fulfillment. With our high-quality sourcing services, your eCommerce or dropshipping business is set for success.
 
-## What is it?
+---
 
-Introduce your project, including what it does or lets you do, why you would use
-it, and its primary goal (and how it achieves it). This should be similar to
-your README description, though you can go into a little more detail here if you
-want.
+## 🔍 If You Don't Have Suppliers Yet?
 
-## Why do I want it?
+### SHOPTIMA Sourcing: Your End-to-End Supply Chain Solution
+Why waste time and money? We streamline your entire sourcing process—**cutting costs, not corners**.
 
-Help your user know if your project will help them. Useful information can
-include:
+### 🚀 Beyond Sourcing. Beyond Warehousing. We Handle It All:
+✔ **Factory Audits** → Only trusted suppliers  
+✔ **Price Negotiations** → Maximize your margins  
+✔ **Quality Inspection** → Zero defects, zero stress  
 
-- **What is it good for?**: What types of problems does your project solve? What
-  are the benefits of using it?
+> *No more risks. No more guesswork. With SHOPTIMA, your supply chain runs smoothly—guaranteed.*
 
-- **What is it not good for?**: For example, point out situations that might
-  intuitively seem suited for your project, but aren't for some reason. Also
-  mention known limitations, scaling issues, or anything else that might let
-  your users know if the project is not for them.
+---
 
-- **What is it _not yet_ good for?**: Highlight any useful features that are
-  coming soon.
+## 🔧 If You Already Have Suppliers?
+Tired of sourcing headaches? SHOPTIMA delivers:  
+- **Factory-checked products**  
+- **Razor-sharp pricing**  
+- **Bulletproof quality control**  
+→ So your business thrives risk-free.
 
-## Where should I go next?
+---
 
-Give your users next steps from the Overview. For example:
+## 💡 Why Choose SHOPTIMA?
+**From factory to fulfillment**, our end-to-end service eliminates your supply chain fears:  
+1. **Audit**  
+2. **Negotiate**  
+3. **Inspect**  
+4. **Ship**  
+5. **Done**
 
-- [Getting Started](/docs/getting-started/): Get started with $project
-- [Examples](/docs/examples/): Check out some example code!
+---
+
+## ➡️ Where Should I Go Next?
+*No risks. No surprises. Just flawless sourcing—SHOPTIMA guarantees it.*
