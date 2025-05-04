@@ -6,7 +6,7 @@ menu: {main: {weight: 10}}
 
 {{% blocks/cover title="About SHOPTIMA" image_anchor="bottom" height="auto" %}}
 
-Sourcing services from China.
+Sourcing services from China made easy.
 {.mt-5}
 
 {{% /blocks/cover %}}
