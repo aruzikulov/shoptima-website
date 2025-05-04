@@ -68,7 +68,7 @@ While building trust (关系) is key in Chinese business culture, a legally bind
 
 ---
 
-## 🇨🇳 **Cultural Considerations**  
+## **Cultural Considerations**  
 
 - **Relationship First**: Present contract as "formality" post-negotiation  
 - **Face-Saving**: Avoid aggressive penalties - use phased approaches  
