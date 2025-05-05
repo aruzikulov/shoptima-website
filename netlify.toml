@@ -14,8 +14,6 @@ NODE_VERSION = "lts/*"
 [context.production]
 command = "npm run build:production"
 
-[[redirects]]
-  from = "https://shoptima.uz/*"
-  to = "https://shoptima.netlify.app/uz/:splat"
-  status = 200
-  force = true
+[[edge_functions]]
+  function = "language-redirect"
+  path = "/*"
