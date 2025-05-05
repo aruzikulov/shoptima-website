@@ -1,61 +1,70 @@
 // netlify/edge-functions/language-redirect.js
 
-// Countries where Russian is commonly spoken
 const RUSSIAN_SPEAKING_COUNTRIES = new Set([
-    'RU', 'BY', 'KZ', 'KG', 'TJ', 'UZ', 'TM', 'MD', 'UA'
-  ]);
-  
-  export default async (request, context) => {
+  'RU', 'BY', 'KZ', 'KG', 'TJ', 'UZ', 'TM', 'MD', 'UA'
+]);
+
+export default async (request, context) => {
+  try {
     const url = new URL(request.url);
+    const pathname = url.pathname;
     
     // Skip if already on a language-specific path
-    if (url.pathname.startsWith('/ru/') || url.pathname.startsWith('/uz/') || url.pathname.startsWith('/en/')) {
+    if (pathname.startsWith('/ru/') || pathname.startsWith('/uz/') || pathname.startsWith('/en/')) {
+      console.log('Skipping - already on language path');
       return;
     }
     
-    // Skip if it's a file (like CSS, JS, images)
-    if (url.pathname.split('/').pop().includes('.')) {
+    // Skip assets and files
+    if (pathname.split('/').pop().includes('.')) {
+      console.log('Skipping - file asset');
       return;
     }
     
-    // Skip if user has explicitly changed language (has our cookie)
+    // Check for user preference cookie
     const userSelectedLang = context.cookies.get('user_lang');
     if (userSelectedLang) {
+      console.log('Skipping - user language preference exists:', userSelectedLang);
       return;
     }
     
-    // Get country code from geolocation
-    const country = context.geo?.country?.code || '';
+    // Get geolocation data
+    const country = context.geo?.country?.code || 'unknown';
     const isRussianSpeakingCountry = RUSSIAN_SPEAKING_COUNTRIES.has(country);
+    console.log('Country detected:', country);
     
-    // Check for Accept-Language header
-    const acceptLanguage = request.headers.get('accept-language');
+    // Analyze Accept-Language header
+    const acceptLanguage = request.headers.get('accept-language') || '';
     let browserPrefersRussian = false;
     let browserPrefersUzbek = false;
     
     if (acceptLanguage) {
-      const languages = acceptLanguage.split(',').map(lang => lang.split(';')[0]);
+      const languages = acceptLanguage.split(',').map(lang => lang.split(';')[0].toLowerCase());
       browserPrefersRussian = languages.some(lang => lang.startsWith('ru'));
       browserPrefersUzbek = languages.some(lang => lang.startsWith('uz'));
+      console.log('Browser languages:', languages);
     }
     
-    // Decision logic:
-    // 1. Redirect to Uzbek only if browser prefers Uzbek
+    // Decision logic
     if (browserPrefersUzbek) {
-      return Response.redirect(`${url.origin}/uz${url.pathname}`, 302);
+      console.log('Redirecting to Uzbek');
+      return Response.redirect(`${url.origin}/uz${pathname}`, 302);
     }
     
-    // 2. Redirect to Russian only if both:
-    //    - Browser prefers Russian AND
-    //    - User is in a Russian-speaking country
     if (browserPrefersRussian && isRussianSpeakingCountry) {
-      return Response.redirect(`${url.origin}/ru${url.pathpathname}`, 302);
+      console.log('Redirecting to Russian');
+      return Response.redirect(`${url.origin}/ru${pathname}`, 302);
     }
     
-    // Default to English (no redirect needed)
+    console.log('Defaulting to English');
     return;
-  };
-  
-  export const config = {
-    path: '/*'
-  };
+    
+  } catch (error) {
+    console.error('Edge Function error:', error);
+    return;
+  }
+};
+
+export const config = {
+  path: '/*'
+};

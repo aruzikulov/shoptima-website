@@ -15,5 +15,5 @@ NODE_VERSION = "lts/*"
 command = "npm run build:production"
 
 [[edge_functions]]
-function = "language-redirect"
-path = "/*"
+  function = "language-redirect"
+  path = "/*"
