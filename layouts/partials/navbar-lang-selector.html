@@ -1,3 +1,4 @@
+{{/* Link directly to documentation etc., if possible. */ -}}
 {{ $langPage := cond (gt (len .Translations) 0) . .Site.Home -}}
 <div class="dropdown">
   <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -5,18 +6,7 @@
   </a>
   <ul class="dropdown-menu">
     {{ range $langPage.Translations -}}
-    <li><a class="dropdown-item" href="{{ .RelPermalink }}" onclick="setLanguageCookie('{{ .Language.Lang }}')">{{ .Language.LanguageName }}</a></li>
+    <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
     {{ end -}}
-    {{/* Add current language for consistency */}}
-    <li><a class="dropdown-item" href="{{ $langPage.RelPermalink }}" onclick="setLanguageCookie('{{ $langPage.Language.Lang }}')">{{ $langPage.Language.LanguageName }}</a></li>
   </ul>
 </div>
-
-<script>
-  function setLanguageCookie(lang) {
-    // Set cookie to remember user's choice (expires in 1 year)
-    document.cookie = `user_lang=${lang}; path=/; max-age=${365 * 24 * 60 * 60}; SameSite=Lax`;
-    // Small delay to ensure cookie is set before navigation
-    setTimeout(() => {}, 50);
-  }
-</script>

@@ -13,7 +13,3 @@ NODE_VERSION = "lts/*"
 
 [context.production]
 command = "npm run build:production"
-
-[[edge_functions]]
-  function = "language-redirect"
-  path = "/*"
