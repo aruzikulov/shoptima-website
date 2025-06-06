@@ -67,6 +67,15 @@ languages:
       time_format_default: 02.01.2006
       time_format_blog: 02.01.2006
   # cSpell:enable
+  cn:
+    languageName: "中文"
+    contentDir: content/cn
+    title: "SHOPTIMA" 
+    params:
+      description: "SHOPTIMA Group - 中文"
+      time_format_default: 2006年01月02日
+      time_format_blog: 2006年01月02日
+  # cSpell:enable
 
 markup:
   goldmark:
