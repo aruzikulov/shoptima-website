@@ -1,6 +1,6 @@
 ---
 title: Our Services
-linkTitle: Services
+linkTitle: 服务
 menu: {main: {weight: 20}}
 ---
 

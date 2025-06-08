@@ -14,7 +14,7 @@ title: SHOPTIMA Sourcing
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Anything you need from China? Just contact us:
+您需要从乌兹别克斯坦获取任何信息吗？请联系我们
 
 <i class="fas fa-phone ms-2"></i> +8613162890261
 <i class="fas fa-envelope"></i> <info@shoptima.org>

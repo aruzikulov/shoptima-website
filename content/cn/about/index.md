@@ -1,6 +1,6 @@
 ---
 title: About SHOPTIMA
-linkTitle: About
+linkTitle: 关于
 menu: {main: {weight: 10}}
 ---
 

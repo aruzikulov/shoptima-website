@@ -1,6 +1,6 @@
 ---
 title: Our Services
-linkTitle: Services
+linkTitle: Услуги
 menu: {main: {weight: 20}}
 ---
 
